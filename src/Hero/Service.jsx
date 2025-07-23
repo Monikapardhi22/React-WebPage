@@ -7,25 +7,25 @@ export default function Service() {
         <div className='container'>
             <div className='flex flex-row justify-evenly
             font-bold  text-2xl text-red-800' >
-                <div className='flex items-center w-[350px] mr-12 gap-2'>
+                <div className='flex items-center mr-12 gap-2'>
                     <i class="fa-solid fa-car-side"></i>
                       Free Shipping
                 </div>
                  <div className='flex items-center gap-2 mr-12'>
                     <i class="fa-solid fa-headphones"></i>
-                      Free Shipping
+                      Things
                       
                 </div>
                  <div className='flex items-center gap-2 mr-12'>
                     <i class="fa-solid fa-circle-check"></i>
                     
-                      Free Shipping
+                      Checkout
                 </div>
                  <div className='flex items-center gap-2 mr-4'>
                     <i class="fa-solid fa-money-check"></i>
                     
                     
-                      Free Shipping
+                      Payment
                 </div>
                 
             </div>
